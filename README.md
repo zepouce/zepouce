@@ -128,7 +128,7 @@ ZePouce est actuellement un projet personnel en phase bêta. Les contributions e
 ## 📬 Contact
 
 Pour toute question, suggestion ou signalement :
-**[votre-email@zepouce.fr]**
+**[contact@zepouce.fr]**
 
 ---
 
