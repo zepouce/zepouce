@@ -1,9 +1,9 @@
 # Conditions Générales d'Utilisation — ZePouce
 
 **Version :** 1.0  
-**Date d'entrée en vigueur :** [DATE DE LANCEMENT]  
-**Éditeur :** [TON NOM / NOM DE LA STRUCTURE], [VILLE], France  
-**Contact :** [TON EMAIL]
+**Date d'entrée en vigueur :** [20/04/2026]  
+**Éditeur :** [Mariotto Florent / NOM DE LA STRUCTURE], Bram, France  
+**Contact :** [contact@zepouce.fr]
 
 ---
 
@@ -110,7 +110,7 @@ L'éditeur s'efforce d'assurer la disponibilité de l'Application mais ne peut g
 
 ## 7. Signalement et modération
 
-Tout utilisateur peut signaler un contenu ou un comportement inapproprié via l'Application ou en contactant l'éditeur à l'adresse : **[TON EMAIL]**.
+Tout utilisateur peut signaler un contenu ou un comportement inapproprié via l'Application ou en contactant l'éditeur à l'adresse : **[contact@zepouce.fr]**.
 
 L'éditeur se réserve le droit de supprimer tout contenu contraire aux présentes CGU et de suspendre ou supprimer le compte de tout utilisateur en infraction, sans préavis ni indemnité.
 
