@@ -2,7 +2,7 @@
 
 **Version :** 1.0  
 **Date d'entrée en vigueur :** [20/04/2026]  
-**Éditeur :** [Mariotto Florent / NOM DE LA STRUCTURE], Bram, France  
+**Éditeur :** [Mariotto Florent / AutoEntrepreneur], Bram, France  
 **Contact :** [contact@zepouce.fr]
 
 ---
@@ -118,7 +118,7 @@ L'éditeur se réserve le droit de supprimer tout contenu contraire aux présent
 
 ## 8. Données personnelles
 
-Le traitement des données personnelles est régi par la **Politique de Confidentialité** de l'Application, disponible à l'adresse : **[URL DE TA POLITIQUE DE CONFIDENTIALITÉ]**.
+Le traitement des données personnelles est régi par la **Politique de Confidentialité** de l'Application, disponible à l'adresse : **[https://github.com/zepouce/zepouce/blob/main/politique-confidentialite.html]**.
 
 Conformément au Règlement Général sur la Protection des Données (RGPD), l'utilisateur dispose d'un droit d'accès, de rectification, de suppression et de portabilité de ses données, qu'il peut exercer en contactant l'éditeur.
 
@@ -168,4 +168,4 @@ Le fait pour l'éditeur de ne pas se prévaloir d'une clause des CGU ne vaut pas
 
 ---
 
-*Dernière mise à jour : [DATE DE LANCEMENT]*
+*Dernière mise à jour : [20/04/2026]*
